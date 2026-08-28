@@ -8,7 +8,7 @@ This repo contains my solved dsa questions from leetcode and codechef.
 
 Synced automatically by SolveBase.
 
-**Total solved: 0**
+**Total solved: 1**
 
 ## Codeforces
 
@@ -25,11 +25,11 @@ Solutions by [tanmaysingh1080](https://codeforces.com/profile/tanmaysingh1080), 
 
 Solutions organized by primary topic folder.
 
-**Solved: 0**
+**Solved: 1**
 
 | Topic | Solved |
 | --- | --- |
-| — | 0 |
+| [hash-table](./leetcode/hash-table) | 1 |
 
 
 ## CSES
