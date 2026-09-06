@@ -12,6 +12,16 @@ int main() {
 	        cin>>arr[i];
 	    }
 	    int _temp;
+		/*for (int d=n;d>0;d--){
+	    for (int i=0;i<n-1;i++){
+	        if (arr[i]>arr[i+1]){
+	            _temp=arr[i];
+	            arr[i]=arr[i+1];
+	            arr[i+1]=_temp;
+	        }
+	    }
+	    }*/
+		//This is bubble sort which failed due to high time complexity
 	    sort(arr,arr+n);
 	    for (int i=1;i<n-1;i+=2){
 	        _temp=arr[i];
