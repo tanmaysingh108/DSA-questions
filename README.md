@@ -8,7 +8,7 @@ This repo contains my solved dsa questions from leetcode and codechef.
 
 Synced automatically by SolveBase.
 
-**Total solved: 19**
+**Total solved: 20**
 
 ## Codeforces
 
@@ -47,7 +47,7 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 17**
+**Solved: 18**
 
 | Difficulty | Solved |
 | --- | --- |
@@ -56,7 +56,7 @@ Solutions organized by difficulty rating.
 | [500](./codechef/500) | 3 |
 | [700](./codechef/700) | 2 |
 | [1000](./codechef/1000) | 2 |
-| [1100](./codechef/1100) | 2 |
+| [1100](./codechef/1100) | 3 |
 | [Unrated](./codechef/Unrated) | 1 |
 
 
