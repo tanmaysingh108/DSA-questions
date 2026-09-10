@@ -21,7 +21,7 @@ int main() {
 	    for (int i=0,c=1;i<n;i++,c++){
 	        for (int j=0;j<n;j++){
 	            if (A[i]>=B[j]){
-	                B[j]=INT_MAX;
+	                B[j]=1001;
 	                c--;
 	            }
 	        }
