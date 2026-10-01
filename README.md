@@ -36,11 +36,11 @@ Solutions organized by primary topic folder.
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 0**
+**Solved: 1**
 
 | Section | Solved |
 | --- | --- |
-| — | 0 |
+| [sorting-and-searching](./cses/sorting-and-searching) | 1 |
 
 
 ## CodeChef
@@ -55,7 +55,7 @@ Solutions organized by difficulty rating.
 | [400](./codechef/400) | 2 |
 | [500](./codechef/500) | 3 |
 | [700](./codechef/700) | 2 |
-| [800](./codechef/800) | 2 |
+| [800](./codechef/800) | 1 |
 | [1000](./codechef/1000) | 2 |
 | [1100](./codechef/1100) | 4 |
 | [1400](./codechef/1400) | 3 |
@@ -75,5 +75,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-10-01_
 <!-- /cf-sync -->
