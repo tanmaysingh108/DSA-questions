@@ -17,20 +17,15 @@ int main(){
     }
     sort(arr.begin(),arr.end());
     int count=0;
-    for (int i=0,j=n-1;i<j;){
+    for (int i=0,j=n-1;i<=j;){
         if (arr[i]+arr[j]>x){
-            count++;
             j--;
-            n--;
         }
         else{
             i++;
             j--;
         }
+        count++;
     }
-    if(n%2)
-        count+=(n+1)/2;
-    else
-        count+=n/2;
     cout<<count<<"\n";
 }
