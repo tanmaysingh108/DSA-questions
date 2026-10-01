@@ -15,21 +15,22 @@ int main(){
         cin>>y;
         arr.push_back(y);
     }
-    sort(arr.begin(), arr.end());
-
-int count = 0;
-int i = 0, j = n - 1;
-
-while (i <= j) {
-    if (arr[i] + arr[j] <= x) {
-        i++;
-        j--;
+    sort(arr.begin(),arr.end());
+    int count=0;
+    for (int i=0,j=n-1;i<j;){
+        if (arr[i]+arr[j]>x){
+            count++;
+            j--;
+            n--;
+        }
+        else{
+            i++;
+            j--;
+        }
     }
-    else {
-        j--;
-    }
-    count++;
-}
-
-cout << count << '\n';
+    if(n%2)
+        count+=(n+1)/2;
+    else
+        count+=n/2;
+    cout<<count<<"\n";
 }
