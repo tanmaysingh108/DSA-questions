@@ -8,7 +8,7 @@ This repo contains my solved dsa questions from leetcode and codechef.
 
 Synced automatically by SolveBase.
 
-**Total solved: 56**
+**Total solved: 57**
 
 ## Codeforces
 
@@ -67,14 +67,14 @@ Solutions organized by difficulty rating.
 
 Solutions organized by difficulty level.
 
-**Solved: 11**
+**Solved: 12**
 
 | Difficulty | Solved |
 | --- | --- |
 | [Basic](./geeksforgeeks/Basic) | 4 |
 | [Easy](./geeksforgeeks/Easy) | 6 |
-| [Medium](./geeksforgeeks/Medium) | 1 |
+| [Medium](./geeksforgeeks/Medium) | 2 |
 
 
-_Last updated: 2026-10-03_
+_Last updated: 2026-10-05_
 <!-- /cf-sync -->
